@@ -1,6 +1,6 @@
 from django.template import Library
 
-from subdomains.utils import reverse
+from ..utils import reverse
 
 
 register = Library()
